@@ -1,0 +1,11 @@
+{"name":[1,2,3,4,5]}
+
+
+ THE INPUT STRING IS VALID.
+
+
+
+{"name":[1,2,3,4,5
+
+.................^
+Closing Square Brackets (])  were expected at position 19 instead of }
